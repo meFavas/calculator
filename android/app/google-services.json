@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "812102179149",
+    "project_id": "asset-management-10cc0",
+    "storage_bucket": "asset-management-10cc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812102179149:android:2f5dab01138a2cdabc7f04",
+        "android_client_info": {
+          "package_name": "com.example.calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6pmpA1W36lfHNB6X2vyladH9ivhyT_4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812102179149:android:a72ac3f4401dbb2bbc7f04",
+        "android_client_info": {
+          "package_name": "com.example.my_calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6pmpA1W36lfHNB6X2vyladH9ivhyT_4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
